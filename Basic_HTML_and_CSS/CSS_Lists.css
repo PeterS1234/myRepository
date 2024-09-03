@@ -1,0 +1,17 @@
+<ol>
+ol {
+	list-style-type: upper-roman;
+	}
+	<li>Bread</li>
+	<li>Milk</li>
+	<li>Eggs</li>
+</ol>
+	
+<ul>
+ul {
+list-style-type: square;
+}
+	<li>Bread</li>
+	<li>Milk</li>
+	<li>Eggs</li>
+</ul>
